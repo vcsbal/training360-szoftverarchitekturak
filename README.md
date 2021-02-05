@@ -1,0 +1,2 @@
+# training360-szoftverarchitekturak
+SzoftverArchitekturak Gyakorlatok
