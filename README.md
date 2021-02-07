@@ -17,3 +17,9 @@ SzoftverArchitekturak Gyakorlatok
 # Maria DB - DBeaver - script
 ![mariadb6](VolgyiCsBalazs_MariaDB6.png)
 ![mariadb7](VolgyiCsBalazs_MariaDB7.png)
+# Mongo DB - NOSQL
+![MongoDB1](VolgyiCsBalazs_MongoDB1.png)
+![MongoDB1](VolgyiCsBalazs_MongoDB2.png)
+# Többrétegű alkalmazás
+![TobbReteg1](VolgyiCsBalazs_TobbReteg1.png)
+![TobbReteg2](VolgyiCsBalazs_TobbReteg2.png)
