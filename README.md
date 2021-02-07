@@ -23,3 +23,8 @@ SzoftverArchitekturak Gyakorlatok
 # Többrétegű alkalmazás
 ![TobbReteg1](VolgyiCsBalazs_TobbReteg1.png)
 ![TobbReteg2](VolgyiCsBalazs_TobbReteg2.png)
+# Web alkalmazás
+![VolgyiCsBalazs_WebAlklmazás1](VolgyiCsBalazs_WebAlklmazás1.png)
+![VolgyiCsBalazs_WebAlklmazás2](VolgyiCsBalazs_WebAlklmazás2.png)
+![VolgyiCsBalazs_WebAlklmazás3](VolgyiCsBalazs_WebAlklmazás3.png)
+![VolgyiCsBalazs_WebAlklmazás4](VolgyiCsBalazs_WebAlklmazás4.png)
