@@ -24,7 +24,12 @@ SzoftverArchitekturak Gyakorlatok
 ![TobbReteg1](VolgyiCsBalazs_TobbReteg1.png)
 ![TobbReteg2](VolgyiCsBalazs_TobbReteg2.png)
 # Web alkalmazás
-![VolgyiCsBalazs_WebAlklmazás1](VolgyiCsBalazs_WebAlklmazás1.png)
-![VolgyiCsBalazs_WebAlklmazás2](VolgyiCsBalazs_WebAlklmazás2.png)
-![VolgyiCsBalazs_WebAlklmazás3](VolgyiCsBalazs_WebAlklmazás3.png)
-![VolgyiCsBalazs_WebAlklmazás4](VolgyiCsBalazs_WebAlklmazás4.png)
+![WebAlklmazás1](VolgyiCsBalazs_WebAlklmazás1.png)
+![WebAlklmazás2](VolgyiCsBalazs_WebAlklmazás2.png)
+![WebAlklmazás3](VolgyiCsBalazs_WebAlklmazás3.png)
+![WebAlklmazás4](VolgyiCsBalazs_WebAlklmazás4.png)
+# HTML
+![Html1](VolgyiCsBalazs_Html1.png)
+![Html2](VolgyiCsBalazs_Html2.png)
+# CSS
+![HtmlCSS](VolgyiCsBalazs_HtmlCSS.png)
