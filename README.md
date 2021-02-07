@@ -14,4 +14,6 @@ SzoftverArchitekturak Gyakorlatok
 # Maria DB - Console
 ![mariadb4](VolgyiCsBalazs_MariaDB4.png)
 ![mariadb5](VolgyiCsBalazs_MariaDB5.png)
+# Maria DB - DBeaver - script
 ![mariadb6](VolgyiCsBalazs_MariaDB6.png)
+![mariadb7](VolgyiCsBalazs_MariaDB7.png)
