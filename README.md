@@ -33,3 +33,15 @@ SzoftverArchitekturak Gyakorlatok
 ![Html2](VolgyiCsBalazs_Html2.png)
 # CSS
 ![HtmlCSS](VolgyiCsBalazs_HtmlCSS.png)
+# RIA JavaScript
+![RIA_JS](VolgyiCsBalazs_WebAlklmazás_RIA_JS.png)
+# RIA Web
+![RIA_web1](VolgyiCsBalazs_WebAlklmazás_RIA_web1.png)
+![RIA_web2](VolgyiCsBalazs_WebAlklmazás_RIA_web2.png)
+# RIA Swagger
+![RIA_sw1](VolgyiCsBalazs_WebAlklmazás_RIA_sw1.png)
+![RIA_sw2](VolgyiCsBalazs_WebAlklmazás_RIA_sw2.png)
+# RIA Postman
+![RIA_PM1](VolgyiCsBalazs_WebAlklmazás_RIA_pm1.png)
+![RIA_PM2](VolgyiCsBalazs_WebAlklmazás_RIA_pm2.png)
+
