@@ -44,4 +44,5 @@ SzoftverArchitekturak Gyakorlatok
 # RIA Postman
 ![RIA_PM1](VolgyiCsBalazs_WebAlklmazás_RIA_pm1.png)
 ![RIA_PM2](VolgyiCsBalazs_WebAlklmazás_RIA_pm2.png)
-
+# SoapUI
+![soapui](VolgyiCsBalazs_WebAlklmazás_SoapUI.png)
