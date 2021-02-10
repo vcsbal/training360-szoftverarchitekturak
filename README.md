@@ -46,3 +46,8 @@ SzoftverArchitekturak Gyakorlatok
 ![RIA_PM2](VolgyiCsBalazs_WebAlklmazás_RIA_pm2.png)
 # SoapUI
 ![soapui](VolgyiCsBalazs_WebAlklmazás_SoapUI.png)
+# Magas rendelkezésre állás
+![HA](VolgyiCsBalazs_HA.png)
+# Virtualizáció
+![virtual](VolgyiCsBalazs_WebAlklmazás_Virtualizacio.png)
+
